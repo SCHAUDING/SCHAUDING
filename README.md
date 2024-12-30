@@ -9,3 +9,7 @@
 <div align="center">
   
 </div>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/SCHAUDING/count.svg"  alt=""/>
+</p>
